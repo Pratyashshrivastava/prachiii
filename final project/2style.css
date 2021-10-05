@@ -85,7 +85,7 @@ body::after{
     opacity: 0;
     transition: 0.5s;
 }
-.container1 .card:hover .content{
+.container1 .card .content{
     /* background: #000; */
     background-size: cover;
     transform: translateY(0px);

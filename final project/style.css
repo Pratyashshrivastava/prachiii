@@ -405,9 +405,9 @@ nav{
                                 cursor: pointer;
                             }
                             
-                            .select-box .option:hover{
+                            /* .select-box .option:hover{
                                 background: #414b57
-                            }
+                            } */
                             
                             .select-box label{
                                 cursor: pointer;
@@ -757,6 +757,7 @@ nav{
                             padding-top:6rem;
                             padding-bottom:4rem;
                         } */
+
                         
 
 
